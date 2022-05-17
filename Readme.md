@@ -6,7 +6,7 @@ Analysis Geo 880**
 | Semester:      | FS22                              |
 |----------------|---------------------------------- |
 | **Data:**      | Wild Boar Movement Data           |
-| **Title:**     | The title of your project         |
+| **Title:**     | Sleep behavior of wild boar         |
 | **Student 1:** | Nina Poglic                 |
 | **Student 2:** | Mirjam Kurz                  |
 
@@ -22,12 +22,10 @@ According to literature wild boar sleep for around 12 hours in the forest during
 
 ## Results / products
 <!-- What do you expect, anticipate? -->
-According to literature wild boar sleep for around 12 hours in the forest during the day. We expect to find this movement pattern in our data after the analysis.
 We expect that the data shows, that the tracked wild boar stay in one place in the forest for around 12 hours. We would then conclude that the wild boars are sleeping for approximately 12 hours on average.
 
 ## Data
 <!-- What data will you use? Will you require additional context data? Where do you get this data from? Do you already have all the data? -->
-We will use the wild boar data provided. Additionally, we need data about the habitats in the area. Can we get it from the geoportal of Bern?
 We will use the wild boar data provided. Additionally, we need data about the habitats in the area. 
 
 ## Analytical concepts
